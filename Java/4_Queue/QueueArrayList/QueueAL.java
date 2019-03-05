@@ -34,7 +34,7 @@ public class QueueAL <T> implements Queue <T> {
         }
         T res = (T)arr[0];
         for(int j=0; j<n; j++) {
-            (T)arr[j] = (T)arr[j+1]
+            (T)arr[j] = (T)arr[j+1];
         }
         i--;
         n--;
