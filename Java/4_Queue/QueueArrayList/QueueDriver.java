@@ -22,7 +22,7 @@ public class QueueDriver {
                         break;
                 case 3: System.out.print("\nSize = " + var.size() + "\n");
                     break;
-                case 4: System.out.println("Wrong choice!\n");
+                default: System.out.println("Wrong choice!\n");
                     break;
             }
         }
