@@ -18,6 +18,22 @@ public class LinearList<T> implements List<T> {
         }
     }
     
+    public void add(T i , Integer pos ){
+        try {
+            if(pos < 0)
+                throw new BoundsException();
+        } catch(BoundsException e) {
+            e.printError();
+        }
+        ListObject <T> obj = new ListObject(i);
+        if(head == null)
+            head = tail = obj;
+        else {
+            tail.next = obj;
+            tail = obj;
+        }
+    }
+	
     public void traverse(){
         iter=head;
 	    while(iter!=null){
@@ -63,22 +79,6 @@ public class LinearList<T> implements List<T> {
             count++;
         }
         return false;
-    }
-
-    public void add(T i , Integer pos ){
-        try {
-            if(pos < 0)
-                throw new BoundsException();
-        } catch(BoundsException e) {
-            e.printError();
-        }
-        ListObject <T> obj = new ListObject(i);
-        if(head == null)
-            head = tail = obj;
-        else {
-            tail.next = obj;
-            tail = obj;
-        }
     }
 
     public void reverse(ListObject <T> rev) {
