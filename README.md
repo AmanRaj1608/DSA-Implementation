@@ -2,7 +2,7 @@
 
 Data structure files are attached in folder.
 
-Here is the links of my gists also
+Here are the direct links to go to a specific folder.
 
 | Data Structure | C/C++ | Java | Python | JavaScript |
 |:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|
