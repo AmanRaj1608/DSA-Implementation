@@ -16,7 +16,7 @@ Current Progress :-
 
 | Data Structure | C/C++ | Java | Python | JavaScript |
 |:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|
-| Array List |          |   [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/1_ArrayList)    |            |             |
+| Array List |   [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/1_ArrayList)     |   [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/1_ArrayList)    |            |             |
 | Linked List |         |   [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/2_LinkedList)     |            |             |
 | Stack |               |    [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/3_Stack)   |            |             |
 | Queue |               |    [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/4_Queue)    |            |             |

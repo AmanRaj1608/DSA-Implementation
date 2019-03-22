@@ -25,6 +25,8 @@ public class StackDriver {
                         break;
                 case 4: System.out.print("\nSize = " + var.returnSize() + "\n");
                     break;
+                default: System.out.println("Wrong choice!\n");
+                    break;
             }
         }
     }
