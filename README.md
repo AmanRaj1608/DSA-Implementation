@@ -2,7 +2,7 @@
 <h1 align="center">Data Structure Implementation</h1>
 
 <p align="center">
-<a href="https://travis-ci.com/aashutoshrathi/keepr-flutter"><img src="https://travis-ci.com/aashutoshrathi/keepr-flutter.svg?token=x5wHaKpXyy9apivkjrhr&branch=master" align="center"></a>
+<a href="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" align="center"></a>
 </p>
 <hr>
 <p align="center">Hi this is my Data Structure Implementation repository.
@@ -20,7 +20,7 @@ Current Progress :-
 
 ## Author
 
-[Aman RAj](https://github.com/amanraj1608)
+[Aman Raj](https://github.com/amanraj1608)
 
 [<img src="https://image.flaticon.com/icons/svg/185/185964.svg" width="35" padding="10">](https://linkedin.com/in/aashutoshrathi)
 
