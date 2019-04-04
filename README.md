@@ -22,8 +22,9 @@ Current progress :-
 | Linked List |         |   [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/2_LinkedList)     |            |             |
 | Stack |               |    [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/3_Stack)   |            |             |
 | Queue |               |    [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/4_Queue)    |            |             |
-| Binary Search Tree |  |          |            |             |
-
+| Binary Search Tree |  |    [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/5_BST)      |            |             |
+| AVL Tree |  |  |  |
+| AVL Tree |  |  |  |
 
 
 ## Author
