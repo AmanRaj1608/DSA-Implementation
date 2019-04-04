@@ -24,7 +24,7 @@ Current progress :-
 | Queue |               |    [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/4_Queue)    |            |             |
 | Binary Search Tree |  |    [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/5_BST)      |            |             |
 | AVL Tree |  |  |  |
-| AVL Tree |  |  |  |
+| Red black Tree |  |  |  |
 
 
 ## Author
