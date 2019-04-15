@@ -12,9 +12,9 @@
 <p align="center"><b>Hi this is my Data Structure Implementation repository.</b>
 </p>
 
-Here are the direct links to go to a specific folder.
 
 Current progress :-
+
 
 | Data Structure | C/C++ | Java | Python | JavaScript |
 |:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|
@@ -25,6 +25,21 @@ Current progress :-
 | Binary Search Tree |  |    [📜](https://github.com/AmanRaj1608/DS-Implementation/tree/master/Java/5_BST)      |            |             |
 | AVL Tree |  |  |  |
 | Red black Tree |  |  |  |
+
+
+
+| Sorting | Time Complexity |C/C++ | Java | Python | JavaScript |
+|:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
+| Selection Sort | O(n^2)      | [📜]() |    |      |     |
+| Bubble Sort    | O(n^2)      | [📜]() |    |            |      |
+| Insertion Sort | O(n^2)      | [📜]() |    |            |             |
+| Merge Sort     | O(n log(n)) | [📜]() |    |  |  |
+| Quick Sort     | O(n^2)      | [📜]() |    |            |             |
+| Heap Sort      | O(n log(n)) | [📜]() |    |            |             |
+| Bucket Sort    | O(n^2)      |        |     |  | |
+| Radix Sort     | O(nk)       |        |     |  | |
+| Tim Sort       | O(nk)       |        |     |  | |
+| Shell Sort     | O(nk)       |        |     |  | |
 
 
 ## Author
