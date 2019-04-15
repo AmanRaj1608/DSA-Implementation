@@ -17,13 +17,15 @@ void swap(ll int *a, ll int *b) {
 }
 
 void InsertionSort(ll int arr[],ll int n) {
-    int min;
-    for(int i=0; i<n-1; i++) {
-        min = i;
-        for(int j=i+1; j<n; j++)
-            if(arr[j] < arr[min])
-                min = j;
-        swap(&arr[min], &arr[i]);
+    ll int j,key;
+    for(ll int i=1; i<n; i++) {
+        key = arr[i];
+        j = i-1;
+        while(arr[j]>key && j>=0){
+            arr[j+1] = arr[j];
+            j--;
+            arr[j+1] = key;
+        }
     }
 }
 
@@ -36,7 +38,6 @@ int main() {
     int choice;
     cin >> choice;
     ll int arr[n];
-
 
     //      Filling array as per choice
     if(choice==1) {
@@ -63,7 +64,7 @@ int main() {
     //      Started clock
     auto start = high_resolution_clock::now();
 
-        SelectionSort(arr,n);
+        InsertionSort(arr,n);
 
     //      Stop clock and calculate time
     auto stop = high_resolution_clock::now();
