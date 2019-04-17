@@ -30,12 +30,12 @@ Current progress :-
 
 | Sorting | Time Complexity |C/C++ | Java | Python | JavaScript |
 |:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|
-| Selection Sort | O(n^2)      | [📜]() |    |      |     |
-| Bubble Sort    | O(n^2)      | [📜]() |    |            |      |
-| Insertion Sort | O(n^2)      | [📜]() |    |            |             |
-| Merge Sort     | O(n log(n)) | [📜]() |    |  |  |
-| Quick Sort     | O(n^2)      | [📜]() |    |            |             |
-| Heap Sort      | O(n log(n)) | [📜]() |    |            |             |
+| Selection Sort | O(n^2)      | [📜](https://github.com/AmanRaj1608/DS-Implementation/blob/master/C%2B%2B/Sorting/SelectionSort.cpp) |    |      |     |
+| Bubble Sort    | O(n^2)      | [📜](https://github.com/AmanRaj1608/DS-Implementation/blob/master/C%2B%2B/Sorting/BubbleSort.cpp) |    |            |      |
+| Insertion Sort | O(n^2)      | [📜](https://github.com/AmanRaj1608/DS-Implementation/blob/master/C%2B%2B/Sorting/InserionSort.cpp) |    |            |             |
+| Merge Sort     | O(n log(n)) | [📜](https://github.com/AmanRaj1608/DS-Implementation/blob/master/C%2B%2B/Sorting/MergeSort.cpp) |    |  |  |
+| Quick Sort     | O(n^2)      | [📜](https://github.com/AmanRaj1608/DS-Implementation/blob/master/C%2B%2B/Sorting/QuickSort.cpp) |    |            |             |
+| Heap Sort      | O(n log(n)) |  |    |            |             |
 | Bucket Sort    | O(n^2)      |        |     |  | |
 | Radix Sort     | O(nk)       |        |     |  | |
 | Tim Sort       | O(nk)       |        |     |  | |
