@@ -17,9 +17,8 @@ void swap(ll int *a, ll int *b) {
 }
 
 void SelectionSort(ll int arr[],ll int n) {
-    int min;
     for(ll int i=0; i<n-1; i++) {
-        min = i;
+        ll int min = i;
         for(ll int j=i+1; j<n; j++)
             if(arr[j] < arr[min])
                 min = j;
