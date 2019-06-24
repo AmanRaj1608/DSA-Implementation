@@ -3,4 +3,4 @@
 **Implementation of various Data Structures in my favorite language: C++.**
 
 Contributor(s): 
-    <li> Array List [sid-tiw](https://github.com/sid-tiw)
+    <li> Array List: [sid-tiw](https://github.com/sid-tiw)
