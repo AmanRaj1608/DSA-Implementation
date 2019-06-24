@@ -1,6 +1,6 @@
 /*
 C++ implementation of Heap Sort algorithm:
-* Sorts 10000 randomly generated integers.
+* Sorts 10000 randomly generated integers (between 1 and 10000).
 * Shows time taken (in microseconds) to sort the random sequence of integers.
 * Prints the sorted list of integers.
 */
