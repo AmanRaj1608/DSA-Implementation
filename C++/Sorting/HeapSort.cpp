@@ -1,4 +1,9 @@
-// C++ implementation of Heap Sort algorithm
+/*
+C++ implementation of Heap Sort algorithm:
+* Sorts 10000 randomly generated integers.
+* Shows time taken (in microseconds) to sort the random sequence of integers.
+* Prints the sorted list of integers.
+*/
 
 #include <iostream>
 #include <cstdlib>
