@@ -4,3 +4,4 @@
 
 Contributor(s): 
     <li> Array List: [sid-tiw](https://github.com/sid-tiw)
+    <li> Sorting and Data structure: [sid-tiw](https://github.com/sid-tiw)
