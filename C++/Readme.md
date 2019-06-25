@@ -1,6 +1,6 @@
-# Data Structure Implementation in C++
+# Data Structures Implementation in C++
 
-**Implementation of Data Structure in my favourite language.**
+**Implementation of various Data Structures in my favorite language: C++.**
 
-Contributor - 
-    <li> Array List [sid-tiw](https://github.com/sid-tiw)
+Contributor(s): 
+    <li> Array List: [sid-tiw](https://github.com/sid-tiw)
