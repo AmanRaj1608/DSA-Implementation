@@ -35,7 +35,7 @@ Current Progress:
 | Insertion Sort | O(n^2)      | [📜](https://github.com/AmanRaj1608/DS-Implementation/blob/master/C%2B%2B/Sorting/InserionSort.cpp) |    |            |             |
 | Merge Sort     | O(n log(n)) | [📜](https://github.com/AmanRaj1608/DS-Implementation/blob/master/C%2B%2B/Sorting/MergeSort.cpp) |    |  |  |
 | Quick Sort     | O(n^2)      | [📜](https://github.com/AmanRaj1608/DS-Implementation/blob/master/C%2B%2B/Sorting/QuickSort.cpp) |    |            |             |
-| Heap Sort      | O(n log(n)) |  |    |            |             |
+| Heap Sort      | O(n log(n)) | [📜](https://github.com/AmanRaj1608/DSA-Implementation/blob/master/C%2B%2B/max-heap.cpp) |    |            |             |
 | Bucket Sort    | O(n^2)      |        |     |  | |
 | Radix Sort     | O(nk)       |        |     |  | |
 | Tim Sort       | O(nk)       |        |     |  | |
