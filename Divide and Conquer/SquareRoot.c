@@ -5,7 +5,7 @@ int main(void)
 {
   float n,ans,l,r,mid;
   printf("Please enter a positive number!");
-  scanf("%d",&n);
+  scanf("%f",&n);
   if(n>1)
   {
      l =1,r=n;
@@ -27,5 +27,6 @@ int main(void)
      }
       ans=mid;
   }
+  printf("The square root of %f is %f\n",n,ans);
   return 0;
 }
