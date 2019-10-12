@@ -1,8 +1,8 @@
 # Data Structure Implementation in Python
 
-# A simple Python program for traversal of a linked list 
+## A simple Python program for traversal of a linked list 
 
-# Node class 
+## Node class 
 class Node: 
 
 	# Function to initialise the node object 
@@ -11,7 +11,7 @@ class Node:
 		self.next = None # Initialize next as null 
 
 
-# Linked List class contains a Node object 
+## Linked List class contains a Node object 
 class LinkedList: 
 
 	# Function to initialize head 
@@ -27,7 +27,7 @@ class LinkedList:
 			temp = temp.next
 
 
-# Code execution starts here 
+## Code execution starts here 
 if __name__=='__main__': 
 
 	# Start with the empty list 
